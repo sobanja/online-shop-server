@@ -1,0 +1,14 @@
+{
+  "name": "online-shop-angular-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
